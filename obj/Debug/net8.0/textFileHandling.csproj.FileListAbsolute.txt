@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\sysbeamsExecrise\textFileHandling\bin\Debug\net8.0\textFileHandling.exe
+C:\Users\USER\Desktop\sysbeamsExecrise\textFileHandling\bin\Debug\net8.0\textFileHandling.deps.json
+C:\Users\USER\Desktop\sysbeamsExecrise\textFileHandling\bin\Debug\net8.0\textFileHandling.runtimeconfig.json
+C:\Users\USER\Desktop\sysbeamsExecrise\textFileHandling\bin\Debug\net8.0\textFileHandling.dll
+C:\Users\USER\Desktop\sysbeamsExecrise\textFileHandling\bin\Debug\net8.0\textFileHandling.pdb
+C:\Users\USER\Desktop\sysbeamsExecrise\textFileHandling\obj\Debug\net8.0\textFileHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\sysbeamsExecrise\textFileHandling\obj\Debug\net8.0\textFileHandling.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\sysbeamsExecrise\textFileHandling\obj\Debug\net8.0\textFileHandling.AssemblyInfo.cs
+C:\Users\USER\Desktop\sysbeamsExecrise\textFileHandling\obj\Debug\net8.0\textFileHandling.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\sysbeamsExecrise\textFileHandling\obj\Debug\net8.0\textFileHandling.dll
+C:\Users\USER\Desktop\sysbeamsExecrise\textFileHandling\obj\Debug\net8.0\refint\textFileHandling.dll
+C:\Users\USER\Desktop\sysbeamsExecrise\textFileHandling\obj\Debug\net8.0\textFileHandling.pdb
+C:\Users\USER\Desktop\sysbeamsExecrise\textFileHandling\obj\Debug\net8.0\textFileHandling.genruntimeconfig.cache
+C:\Users\USER\Desktop\sysbeamsExecrise\textFileHandling\obj\Debug\net8.0\ref\textFileHandling.dll
